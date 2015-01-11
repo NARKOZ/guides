@@ -153,3 +153,8 @@ coding style guides and development practices across the web.
 ### Swift
 
 + [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme)
+
+## Contributing
+
+Any improvements or suggestions are welcome!
+See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
