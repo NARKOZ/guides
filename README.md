@@ -28,6 +28,7 @@ coding style guides and development practices across the web.
   + [Swift](#swift)
 
 + Frameworks
+  + [AngularJS](#angularjs)
   + [Ruby on Rails](#rails)
   + [Node.js](#nodejs)
 
@@ -85,6 +86,11 @@ coding style guides and development practices across the web.
 
 + [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
 + [Principles of good RESTful API Design](http://codeplanet.io/principles-good-restful-api-design/)
+
+### AngularJS
+
++ [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide#readme)
++ [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 
 ### C
 + [C Code Style Guidelines](http://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
