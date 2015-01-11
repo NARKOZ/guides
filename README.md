@@ -21,6 +21,7 @@ coding style guides and development practices across the web.
   + [JavaScript](#javascript)
   + [Java](#java)
   + [Objective-C](#objective-c)
+  + [Perl](#perl)
   + [PHP](#php)
   + [Python](#python)
   + [Ruby](#ruby)
@@ -130,6 +131,10 @@ coding style guides and development practices across the web.
 + [Google Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
 + [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide#readme)
 + [The official raywenderlich.com Objective-C style guide](https://github.com/raywenderlich/objective-c-style-guide#readme)
+
+### Perl
+
++ [Perlingo - the Perl style guide](http://kulnet.kuleuven.be/perlcourse/perlingo.html)
 
 ### PHP
 
