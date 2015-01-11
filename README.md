@@ -102,7 +102,7 @@ coding style guides and development practices across the web.
 
 + [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 
-### C#
+### C&#35;
 
 + [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
 
