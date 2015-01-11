@@ -112,6 +112,7 @@ coding style guides and development practices across the web.
 ### Writing
 
 + [Writing style](https://design.atlassian.com/latest/product/foundations/writing-style/)
++ [The Twelve Factor App](http://12factor.net/)
 
 ### Ruby
 
@@ -145,6 +146,8 @@ coding style guides and development practices across the web.
 
 + [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 + [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
++ [Hitchhickers Guide to Python - Writing great code](http://docs.python-guide.org/en/latest/#writing-great-code)
++ [PEP 20](https://www.python.org/dev/peps/pep-0020/)
 
 ### Shell
 
