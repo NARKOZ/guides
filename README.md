@@ -17,6 +17,7 @@ coding style guides and development practices across the web.
 + Programming languages
   + [C](#c)
   + [C++](#c-1)
+  + [C#](#c-2)
   + [CoffeeScript](#coffeescript)
   + [JavaScript](#javascript)
   + [Java](#java)
@@ -100,6 +101,10 @@ coding style guides and development practices across the web.
 ### C++
 
 + [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+
+### C#
+
++ [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
 
 ### Java
 
