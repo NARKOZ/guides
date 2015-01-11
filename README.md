@@ -112,6 +112,7 @@ coding style guides and development practices across the web.
 ### Writing
 
 + [Writing style](https://design.atlassian.com/latest/product/foundations/writing-style/)
++ [The Twelve Factor App](http://12factor.net/)
 
 ### Ruby
 
@@ -154,7 +155,3 @@ coding style guides and development practices across the web.
 ### Swift
 
 + [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme)
-+ 
-### Writing
-
-[The Twelve Factor App](http://12factor.net/)
