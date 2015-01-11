@@ -144,6 +144,8 @@ coding style guides and development practices across the web.
 ### Python
 
 + [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
++ [Hitchhickers Guide to Python - Writing great code](http://docs.python-guide.org/en/latest/#writing-great-code)
++ [PEP 20](https://www.python.org/dev/peps/pep-0020/)
 
 ### Shell
 
@@ -152,3 +154,7 @@ coding style guides and development practices across the web.
 ### Swift
 
 + [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme)
++ 
+### Writing
+
+[The Twelve Factor App](http://12factor.net/)
