@@ -11,10 +11,13 @@ coding style guides and development practices across the web.
 + [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme)
 + [HTML and CSS code guide](https://github.com/mdo/code-guide#readme)
++ [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
+
+### Sass
+
 + [Principles of writing idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass#readme)
 + [Sass Style Guide](http://css-tricks.com/sass-style-guide/)
 + [Sass Guidelines](http://sass-guidelin.es/)
-+ [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
 
 ## Markup
 
