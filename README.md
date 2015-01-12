@@ -7,7 +7,7 @@ coding style guides and development practices across the web.
 ## Contents
 
 + Styling
-  + [Popular Guides](#styleguides)
+  + [Popular Guides](#popular-guides)
   + [CSS](#css)
   + [Sass](#sass)
 
