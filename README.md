@@ -77,6 +77,7 @@ coding style guides and development practices across the web.
 + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 + [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js#readme)
 + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
++ [JavaScript: The Right Way](http://jstherightway.org/)
 
 ### CoffeeScript
 
