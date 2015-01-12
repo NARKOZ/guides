@@ -7,6 +7,7 @@ coding style guides and development practices across the web.
 ## Contents
 
 + Styling
+  + [Popular Guides](#popular-guides)
   + [CSS](#css)
   + [Sass](#sass)
 
@@ -42,9 +43,13 @@ coding style guides and development practices across the web.
 
 ## Styling
 
-### CSS
+### Popular Guides
 
 + [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
++ [Mailchimp Pattern Library](http://ux.mailchimp.com/patterns/)
+
+### CSS
+
 + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme)
 + [HTML and CSS code guide](https://github.com/mdo/code-guide#readme)
 + [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
