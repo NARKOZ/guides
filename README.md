@@ -39,6 +39,7 @@ coding style guides and development practices across the web.
   + [Favicon](#favicon)
   + [JSON](#json)
   + [Writing](#writing)
+  + [GitHub Awesome Lists](https://github.com/sindresorhus/awesome)
 
 ## Styling
 
@@ -77,6 +78,7 @@ coding style guides and development practices across the web.
 + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 + [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js#readme)
 + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
++ [JavaScript: The Right Way](http://jstherightway.org/)
 
 ### CoffeeScript
 
@@ -93,6 +95,10 @@ coding style guides and development practices across the web.
 
 + [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide#readme)
 + [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
+
+### Browser Compatibility
++ [QuirksMode.org Browser Compatibility Tables](http://www.quirksmode.org/compatibility.html)
++ [Can I use: Up-to-date browser support tables](http://caniuse.com/)
 
 ### C
 + [C Code Style Guidelines](http://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
