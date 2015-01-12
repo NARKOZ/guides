@@ -97,6 +97,8 @@ coding style guides and development practices across the web.
 ### C
 + [C Code Style Guidelines](http://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
 + [ESA Style Guide for 'C' coding](http://www.maultech.com/chrislott/resources/cstyle/cstyle-ESA-OZ-v2.txt)
++ [Gnome C Coding Style](https://help.gnome.org/users/programming-guidelines/stable/c-coding-style.html.en)
++ [Linux Kernel Coding Style](https://www.kernel.org/doc/Documentation/CodingStyle)
 
 ### C++
 
