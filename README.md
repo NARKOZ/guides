@@ -39,6 +39,7 @@ coding style guides and development practices across the web.
   + [Favicon](#favicon)
   + [JSON](#json)
   + [Writing](#writing)
+
 ## Styling
 
 ### CSS
