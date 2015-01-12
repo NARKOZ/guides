@@ -39,8 +39,7 @@ coding style guides and development practices across the web.
   + [Favicon](#favicon)
   + [JSON](#json)
   + [Writing](#writing)
-  + [GitHub Awesome Lists](https://github.com/sindresorhus/awesome)
-
+  
 ## Styling
 
 ### CSS
@@ -95,10 +94,6 @@ coding style guides and development practices across the web.
 
 + [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide#readme)
 + [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
-
-### Browser Compatibility
-+ [QuirksMode.org Browser Compatibility Tables](http://www.quirksmode.org/compatibility.html)
-+ [Can I use: Up-to-date browser support tables](http://caniuse.com/)
 
 ### C
 + [C Code Style Guidelines](http://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
