@@ -91,7 +91,7 @@ coding style guides and development practices across the web.
 
 ### AngularJS
 
-+ [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide#readme)
++ [AngularJS Style Guide by John Papa](https://github.com/johnpapa/angularjs-styleguide#readme)
 + [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 
 ### C
