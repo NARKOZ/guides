@@ -107,6 +107,7 @@ coding style guides and development practices across the web.
 
 + [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
 + [Framework Design Guidelines](http://msdn.microsoft.com/en-us/library/ms229042.aspx)
++ [Design Guidelines for Developing Class Libraries](http://msdn.microsoft.com/en-us/library/vstudio/ms229042(v=vs.100).aspx)
 
 ### Java
 
