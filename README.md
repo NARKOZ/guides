@@ -19,6 +19,7 @@ coding style guides and development practices across the web.
   + [C++](#c-1)
   + [C#](#c-2)
   + [CoffeeScript](#coffeescript)
+  + [Go](#go)
   + [JavaScript](#javascript)
   + [Java](#java)
   + [Objective-C](#objective-c)
@@ -108,6 +109,10 @@ coding style guides and development practices across the web.
 
 + [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
 + [Framework Design Guidelines](http://msdn.microsoft.com/en-us/library/ms229042.aspx)
+
+### Go
+
++ [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ### Java
 
