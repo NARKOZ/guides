@@ -112,7 +112,6 @@ coding style guides and development practices across the web.
 ### Go
 
 + [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
-+ [How to Write Go Code](https://golang.org/doc/code.html)
 
 ### Java
 
