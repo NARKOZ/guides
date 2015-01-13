@@ -40,6 +40,7 @@ coding style guides and development practices across the web.
   + [API](#api)
   + [Favicon](#favicon)
   + [JSON](#json)
+  + [Security](#security)
   + [Writing](#writing)
 
 ## Styling
@@ -91,6 +92,10 @@ coding style guides and development practices across the web.
 
 + [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
 + [Principles of good RESTful API Design](http://codeplanet.io/principles-good-restful-api-design/)
+
+### Security
+
++ [Web Application Security Guide/Checklist](http://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)
 
 ### AngularJS
 
