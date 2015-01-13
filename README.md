@@ -120,6 +120,8 @@ coding style guides and development practices across the web.
 ### Writing
 
 + [Writing style](https://design.atlassian.com/latest/product/foundations/writing-style/)
++ [Documentation Style Guide](http://docs.basho.com/riak/latest/community/style-guide/)
++ [Apple Style Guide](https://help.apple.com/asg/mac/2013/)
 
 ### Ruby
 
