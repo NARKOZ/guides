@@ -26,6 +26,7 @@ coding style guides and development practices across the web.
   + [PHP](#php)
   + [Python](#python)
   + [Ruby](#ruby)
+  + [Scala](#scala)
   + [Shell](#shell)
   + [Swift](#swift)
 
@@ -152,6 +153,10 @@ coding style guides and development practices across the web.
 
 + [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 + [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+
+### Scala
+
++ [Scala Style Guide](http://docs.scala-lang.org/style/)
 
 ### Shell
 
