@@ -19,6 +19,7 @@ coding style guides and development practices across the web.
   + [C++](#c-1)
   + [C#](#c-2)
   + [CoffeeScript](#coffeescript)
+  + [Elixir](#elixir)
   + [Go](#go)
   + [JavaScript](#javascript)
   + [Java](#java)
@@ -114,6 +115,10 @@ coding style guides and development practices across the web.
 
 + [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
 + [Framework Design Guidelines](http://msdn.microsoft.com/en-us/library/ms229042.aspx)
+
+### Elixir
+
++ [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
 
 ### Go
 
