@@ -39,6 +39,7 @@ coding style guides and development practices across the web.
 
 + Other
   + [API](#api)
+  + [Deployment](#deployment)
   + [Favicon](#favicon)
   + [JSON](#json)
   + [Security](#security)
@@ -94,6 +95,10 @@ coding style guides and development practices across the web.
 + [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
 + [Principles of good RESTful API Design](http://codeplanet.io/principles-good-restful-api-design/)
 
+### Deployment
+
++ [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+
 ### Security
 
 + [Web Application Security Guide/Checklist](http://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)
@@ -118,7 +123,7 @@ coding style guides and development practices across the web.
 
 ### Elixir
 
-+ [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
++ [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide#readme)
 
 ### Go
 
