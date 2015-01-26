@@ -179,6 +179,7 @@ coding style guides and development practices across the web.
 ### Scala
 
 + [Scala Style Guide](http://docs.scala-lang.org/style/)
++ [Effective Scala](http://twitter.github.io/effectivescala/)
 
 ### Shell
 
