@@ -101,6 +101,7 @@ coding style guides and development practices across the web.
 
 ### Security
 
++ [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 + [Web Application Security Guide/Checklist](http://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)
 
 ### AngularJS
