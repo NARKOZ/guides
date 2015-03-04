@@ -83,6 +83,7 @@ coding style guides and development practices across the web.
 + [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js#readme)
 + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
 + [JavaScript: The Right Way](http://jstherightway.org/)
++ [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 
 ### CoffeeScript
 
