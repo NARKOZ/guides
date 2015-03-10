@@ -6,15 +6,15 @@ coding style guides and development practices across the web.
 
 ## Contents
 
-+ Styling
++ [Styling](#styling)
   + [CSS](#css)
   + [Sass](#sass)
 
-+ Markup
++ [Markup](#markup)
   + [HTML](#html)
   + [XML](#xml)
 
-+ Programming languages
++ [Programming languages](#programming-languages)
   + [C](#c)
   + [C++](#c-1)
   + [C#](#c-2)
@@ -29,15 +29,16 @@ coding style guides and development practices across the web.
   + [Shell](#shell)
   + [Swift](#swift)
 
-+ Frameworks
++ [Frameworks](#frameworks)
   + [AngularJS](#angularjs)
   + [Ruby on Rails](#rails)
   + [Node.js](#nodejs)
 
-+ Other
++ [Other](#other)
   + [API](#api)
   + [Favicon](#favicon)
   + [JSON](#json)
+  + [Mobile Web](#mobile-web)
   + [Writing](#writing)
 
 ## Styling
@@ -48,6 +49,9 @@ coding style guides and development practices across the web.
 + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme)
 + [HTML and CSS code guide](https://github.com/mdo/code-guide#readme)
 + [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
++ [GitHub CSS Style Guide](https://github.com/styleguide/css)
++ [Think Up CSS Code Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS)
++ [WordPress CSS Style Guide](https://make.wordpress.org/core/handbook/coding-standards/css/)
 
 ### Sass
 
@@ -61,38 +65,14 @@ coding style guides and development practices across the web.
 
 + [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 + [HTML and CSS code guide](https://github.com/mdo/code-guide#readme)
++ [GitHub HTML Style Guide](https://github.com/styleguide/templates)
 
 ### XML
 
 + [Google XML Document Format Style Guide](http://google-styleguide.googlecode.com/svn/trunk/xmlstyle.html)
 
-### JSON
 
-+ [Google JSON Style Guide](http://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
-
-## Behavior
-
-### JavaScript
-
-+ [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-+ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js#readme)
-+ [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
-
-### CoffeeScript
-
-+ [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide#readme)
-
-## Other
-
-### API
-
-+ [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
-+ [Principles of good RESTful API Design](http://codeplanet.io/principles-good-restful-api-design/)
-
-### AngularJS
-
-+ [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide#readme)
-+ [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
+## Programming Languages
 
 ### C
 + [C Code Style Guidelines](http://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
@@ -106,30 +86,20 @@ coding style guides and development practices across the web.
 
 + [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
 
+### CoffeeScript
+
++ [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide#readme)
+
+### JavaScript
+
++ [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
++ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js#readme)
++ [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
++ [GitHub JavaScript Style Guide](https://github.com/styleguide/javascript)
+
 ### Java
 
 + [Google Java Style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
-
-### Favicon
-
-+ [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet#readme)
-
-### Writing
-
-+ [Writing style](https://design.atlassian.com/latest/product/foundations/writing-style/)
-
-### Ruby
-
-+ [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme)
-+ [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
-
-### Rails
-
-+ [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide#readme)
-
-### Node.js
-
-+ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
 
 ### Objective-C
 
@@ -151,6 +121,11 @@ coding style guides and development practices across the web.
 + [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 + [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 
+### Ruby
+
++ [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme)
++ [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
+
 ### Shell
 
 + [Google Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
@@ -158,6 +133,44 @@ coding style guides and development practices across the web.
 ### Swift
 
 + [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme)
+
+## Frameworks
+
+### AngularJS
+
++ [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide#readme)
++ [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
+
+### Rails
+
++ [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide#readme)
+
+### Node.js
+
++ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
+
+## Other
+
+### API
+
++ [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
++ [Principles of good RESTful API Design](http://codeplanet.io/principles-good-restful-api-design/)
+
+### Favicon
+
++ [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet#readme)
+
+### JSON
+
++ [Google JSON Style Guide](http://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
+
+### Writing
+
++ [Writing style](https://design.atlassian.com/latest/product/foundations/writing-style/)
+
+### Mobile Web
+
++ [Mobile Web Style Guide](https://github.com/styleguide/mobile)
 
 ## Contributing
 
