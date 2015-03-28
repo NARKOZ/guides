@@ -34,6 +34,7 @@ coding style guides and development practices across the web.
 
 + Frameworks
   + [AngularJS](#angularjs)
+  + [RSpec](#rspec)
   + [Ruby on Rails](#rails)
   + [Node.js](#nodejs)
 
@@ -153,6 +154,10 @@ coding style guides and development practices across the web.
 ### Rails
 
 + [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide#readme)
+
+### RSpec
+
++ [Better Specs { rspec guidelines with ruby }](http://betterspecs.org/)
 
 ### Node.js
 
