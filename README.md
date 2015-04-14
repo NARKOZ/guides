@@ -42,6 +42,7 @@ coding style guides and development practices across the web.
   + [API](#api)
   + [Deployment](#deployment)
   + [Favicon](#favicon)
+  + [iOS](#ios)
   + [JSON](#json)
   + [Security](#security)
   + [Writing](#writing)
@@ -182,6 +183,10 @@ coding style guides and development practices across the web.
 ### Favicon
 
 + [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet#readme)
+
+### iOS
+
++ [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
 
 ### JSON
 
