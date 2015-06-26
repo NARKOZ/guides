@@ -207,6 +207,7 @@ coding style guides and development practices across the web.
 ### UI
 
 + [A Good User Interface](http://goodui.org/)
++ [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides/)
 
 ## Contributing
 
