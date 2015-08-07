@@ -1,4 +1,4 @@
-# Guides
+# Guides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Guides for programmers who want to be awesome.  
 The intent of this repository is to collect and distribute links to useful
