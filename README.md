@@ -104,7 +104,7 @@ coding style guides and development practices across the web.
 ### JavaScript
 
 + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-+ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
++ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme)
 + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
 + [JavaScript: The Right Way](http://jstherightway.org/)
 + [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
@@ -155,7 +155,7 @@ coding style guides and development practices across the web.
 
 ### AngularJS
 
-+ [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide)
++ [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme)
 + [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 
 ### Node.js
