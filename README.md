@@ -86,8 +86,8 @@ coding style guides and development practices across the web.
 
 ### C&#35;
 
-+ [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
-+ [Framework Design Guidelines](http://msdn.microsoft.com/en-us/library/ms229042.aspx)
++ [C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
++ [Framework Design Guidelines](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
 
 ### CoffeeScript
 
@@ -104,7 +104,7 @@ coding style guides and development practices across the web.
 ### JavaScript
 
 + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-+ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js#readme)
++ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
 + [JavaScript: The Right Way](http://jstherightway.org/)
 + [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
@@ -155,7 +155,7 @@ coding style guides and development practices across the web.
 
 ### AngularJS
 
-+ [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide#readme)
++ [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide)
 + [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 
 ### Node.js
@@ -196,11 +196,11 @@ coding style guides and development practices across the web.
 ### Security
 
 + [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
-+ [Web Application Security Guide/Checklist](http://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)
++ [Web Application Security Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)
 
 ### Writing
 
-+ [Writing style](https://design.atlassian.com/latest/product/foundations/writing-style/)
++ [Writing style](https://design.atlassian.com/product/foundations/writing-style/)
 + [Documentation Style Guide](http://docs.basho.com/riak/latest/community/style-guide/)
 + [Apple Style Guide](https://help.apple.com/asg/mac/2013/)
 
