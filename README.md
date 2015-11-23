@@ -30,6 +30,7 @@ coding style guides and development practices across the web.
   + [Ruby](#ruby)
   + [Scala](#scala)
   + [Shell](#shell)
+  + [SQL](#sql)
   + [Swift](#swift)
 
 + [Frameworks](#frameworks)
@@ -146,6 +147,11 @@ coding style guides and development practices across the web.
 ### Shell
 
 + [Google Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
++ [Scripting with style](http://wiki.bash-hackers.org/scripting/style)
+
+### SQL
+
++ [SQL Style Guide](http://www.sqlstyle.guide/)
 
 ### Swift
 
