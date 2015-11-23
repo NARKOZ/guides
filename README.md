@@ -126,7 +126,7 @@ coding style guides and development practices across the web.
 
 ### Perl
 
-+ [Perlingo - the Perl style guide](http://kulnet.kuleuven.be/perlcourse/perlingo.html)
++ [PDF] [Perl Best Practices Quick Reference Guide](http://www.squirrel.nl/pub/PBP_refguide-1.02.00.pdf)
 
 ### Python
 
