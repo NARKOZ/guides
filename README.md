@@ -84,6 +84,7 @@ coding style guides and development practices across the web.
 ### C++
 
 + [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
++ [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
 
 ### C&#35;
 
