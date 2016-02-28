@@ -215,6 +215,7 @@ coding style guides and development practices across the web.
 ### UI
 
 + [A Good User Interface](http://goodui.org/)
++ [Pagination 101](https://gist.github.com/mislav/622561)
 
 ## Contributing
 
