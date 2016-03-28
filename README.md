@@ -135,6 +135,7 @@ coding style guides and development practices across the web.
 
 + [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 + [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
++ [Python Anti-Patterns](https://github.com/quantifiedcode/python-anti-patterns#readme)
 
 ### Ruby
 
