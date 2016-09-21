@@ -19,6 +19,7 @@ coding style guides and development practices across the web.
   + [C++](#c-1)
   + [C#](#c-2)
   + [CoffeeScript](#coffeescript)
+  + [Common Lisp](#common-lisp)
   + [Elixir](#elixir)
   + [Go](#go)
   + [JavaScript](#javascript)
@@ -27,11 +28,13 @@ coding style guides and development practices across the web.
   + [PHP](#php)
   + [Perl](#perl)
   + [Python](#python)
+  + [R](#r)
   + [Ruby](#ruby)
   + [Scala](#scala)
   + [Shell](#shell)
   + [SQL](#sql)
   + [Swift](#swift)
+  + [Vimscript](#vimscript)
 
 + [Frameworks](#frameworks)
   + [AngularJS](#angularjs)
@@ -95,6 +98,10 @@ coding style guides and development practices across the web.
 
 + [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide#readme)
 
+### Common Lisp
+
++ [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
+
 ### Elixir
 
 + [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide#readme)
@@ -136,6 +143,10 @@ coding style guides and development practices across the web.
 + [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 + [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
+### R
+
++ [Google R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+
 ### Ruby
 
 + [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme)
@@ -158,6 +169,10 @@ coding style guides and development practices across the web.
 ### Swift
 
 + [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme)
+
+### Vimscript
+
++ [Google Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
 
 ## Frameworks
 
