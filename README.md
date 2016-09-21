@@ -19,6 +19,7 @@ coding style guides and development practices across the web.
   + [C++](#c-1)
   + [C#](#c-2)
   + [CoffeeScript](#coffeescript)
+  + [Common Lisp](#common-lisp)
   + [Elixir](#elixir)
   + [Go](#go)
   + [JavaScript](#javascript)
@@ -27,11 +28,13 @@ coding style guides and development practices across the web.
   + [PHP](#php)
   + [Perl](#perl)
   + [Python](#python)
+  + [R](#r)
   + [Ruby](#ruby)
   + [Scala](#scala)
   + [Shell](#shell)
   + [SQL](#sql)
   + [Swift](#swift)
+  + [Vimscript](#vimscript)
 
 + [Frameworks](#frameworks)
   + [AngularJS](#angularjs)
@@ -53,38 +56,47 @@ coding style guides and development practices across the web.
 
 ### CSS
 
-+ [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
++ [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme)
 + [HTML and CSS code guide](https://github.com/mdo/code-guide#readme)
-+ [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
++ [General CSS notes, advice and guidelines](http://cssguidelin.es/)
++ [Airbnb CSS/Sass Style Guide](https://github.com/airbnb/css#readme)
++ [Primer (The CSS toolkit and guidelines that power GitHub)](http://primercss.io/scaffolding/)
 
 ### Sass
 
 + [Principles of writing idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass#readme)
 + [Sass Style Guide](http://css-tricks.com/sass-style-guide/)
 + [Sass Guidelines](http://sass-guidelin.es/)
++ [Airbnb CSS/Sass Style Guide](https://github.com/airbnb/css#readme)
 
 ## Markup
 
 ### HTML
 
-+ [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
++ [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 + [HTML and CSS code guide](https://github.com/mdo/code-guide#readme)
 
 ### XML
 
-+ [Google XML Document Format Style Guide](http://google-styleguide.googlecode.com/svn/trunk/xmlstyle.html)
++ [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlstyle.html)
 
 ## Programming Languages
 
 ### C
 + [C Code Style Guidelines](http://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
 + [ESA Style Guide for 'C' coding](http://www.maultech.com/chrislott/resources/cstyle/cstyle-ESA-OZ-v2.txt)
++ [Linux Kernel Style Guide](https://www.kernel.org/doc/Documentation/CodingStyle)
++ [Nasa C Style Guide (PDF)](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
++ [CERT C Secure Coding Guidelins](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard)
 
 ### C++
 
-+ [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
++ [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 + [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
++ [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
++ [JSF C++ Coding Standards](http://www.stroustrup.com/JSF-AV-rules.pdf)
++ [MISRA C++ Guidelines for use in critical systems](http://frey.notk.org/books/MISRA-Cpp-2008.pdf)
 
 ### C&#35;
 
@@ -94,6 +106,10 @@ coding style guides and development practices across the web.
 ### CoffeeScript
 
 + [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide#readme)
+
+### Common Lisp
+
++ [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
 
 ### Elixir
 
@@ -105,7 +121,7 @@ coding style guides and development practices across the web.
 
 ### JavaScript
 
-+ [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
++ [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 + [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme)
 + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
 + [JavaScript: The Right Way](http://jstherightway.org/)
@@ -114,11 +130,12 @@ coding style guides and development practices across the web.
 
 ### Java
 
-+ [Google Java Style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
++ [Google Java Style](https://google.github.io/styleguide/javaguide.html)
++ [Twitter Java Style Guide](https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md)
 
 ### Objective-C
 
-+ [Google Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
++ [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
 + [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide#readme)
 + [The official raywenderlich.com Objective-C style guide](https://github.com/raywenderlich/objective-c-style-guide#readme)
 
@@ -134,7 +151,11 @@ coding style guides and development practices across the web.
 ### Python
 
 + [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-+ [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
++ [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
+### R
+
++ [Google R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
 ### Ruby
 
@@ -148,7 +169,7 @@ coding style guides and development practices across the web.
 
 ### Shell
 
-+ [Google Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
++ [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 + [Scripting with style](http://wiki.bash-hackers.org/scripting/style)
 
 ### SQL
@@ -159,11 +180,15 @@ coding style guides and development practices across the web.
 
 + [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme)
 
+### Vimscript
+
++ [Google Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
+
 ## Frameworks
 
 ### AngularJS
 
-+ [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme)
++ [AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 + [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 
 ### Node.js
@@ -199,7 +224,7 @@ coding style guides and development practices across the web.
 
 ### JSON
 
-+ [Google JSON Style Guide](http://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
++ [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
 ### Security
 
@@ -209,7 +234,7 @@ coding style guides and development practices across the web.
 ### Writing
 
 + [Writing style](https://design.atlassian.com/product/foundations/writing-style/)
-+ [Documentation Style Guide](http://docs.basho.com/riak/latest/community/style-guide/)
++ [Documentation Style Guide](https://docs.basho.com/riak/1.4.12/community/style-guide/)
 + [Apple Style Guide](https://help.apple.com/asg/mac/2013/)
 
 ### UI
