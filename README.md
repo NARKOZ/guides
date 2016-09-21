@@ -60,12 +60,15 @@ coding style guides and development practices across the web.
 + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme)
 + [HTML and CSS code guide](https://github.com/mdo/code-guide#readme)
 + [General CSS notes, advice and guidelines](http://cssguidelin.es/)
++ [Airbnb CSS/Sass Style Guide](https://github.com/airbnb/css#readme)
++ [Primer (The CSS toolkit and guidelines that power GitHub)](http://primercss.io/scaffolding/)
 
 ### Sass
 
 + [Principles of writing idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass#readme)
 + [Sass Style Guide](http://css-tricks.com/sass-style-guide/)
 + [Sass Guidelines](http://sass-guidelin.es/)
++ [Airbnb CSS/Sass Style Guide](https://github.com/airbnb/css#readme)
 
 ## Markup
 
@@ -83,11 +86,17 @@ coding style guides and development practices across the web.
 ### C
 + [C Code Style Guidelines](http://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
 + [ESA Style Guide for 'C' coding](http://www.maultech.com/chrislott/resources/cstyle/cstyle-ESA-OZ-v2.txt)
++ [Linux Kernel Style Guide](https://www.kernel.org/doc/Documentation/CodingStyle)
++ [Nasa C Style Guide (PDF)](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
++ [CERT C Secure Coding Guidelins](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard)
 
 ### C++
 
 + [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 + [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
++ [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
++ [JSF C++ Coding Standards](http://www.stroustrup.com/JSF-AV-rules.pdf)
++ [MISRA C++ Guidelines for use in critical systems](http://frey.notk.org/books/MISRA-Cpp-2008.pdf)
 
 ### C&#35;
 
@@ -122,6 +131,7 @@ coding style guides and development practices across the web.
 ### Java
 
 + [Google Java Style](https://google.github.io/styleguide/javaguide.html)
++ [Twitter Java Style Guide](https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md)
 
 ### Objective-C
 
