@@ -114,7 +114,7 @@ coding style guides and development practices across the web.
 
 ### Java
 
-+ [Google Java Style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
++ [Google Java Style](https://google.github.io/styleguide/javaguide.html)
 
 ### Objective-C
 
