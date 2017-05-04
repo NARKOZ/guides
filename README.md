@@ -221,3 +221,7 @@ coding style guides and development practices across the web.
 
 Any improvements or suggestions are welcome!
 See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
+
+---
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
