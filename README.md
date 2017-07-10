@@ -184,6 +184,7 @@ coding style guides and development practices across the web.
 
 + [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
 + [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
++ [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
 
 ### Deployment
 
