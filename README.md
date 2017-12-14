@@ -38,6 +38,7 @@ coding style guides and development practices across the web.
   + [Node.js](#nodejs)
   + [RSpec](#rspec)
   + [Ruby on Rails](#rails)
+  + [Vue](#vue)
 
 + [Other](#other)
   + [API](#api)
@@ -169,6 +170,7 @@ coding style guides and development practices across the web.
 ### Node.js
 
 + [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
++ [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme)
 
 ### RSpec
 
@@ -177,6 +179,10 @@ coding style guides and development practices across the web.
 ### Rails
 
 + [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide#readme)
+
+### Vue
+
++ [The official style guide for Vue-specific code](https://vuejs.org/v2/style-guide/)
 
 ## Other
 
