@@ -126,7 +126,7 @@ coding style guides and development practices across the web.
 ### PHP
 
 + [PHP: The Right Way](http://www.phptherightway.com/)
-+ [PHP Coding Standards](https://github.com/maxdmyers/php-style-guide#readme)
++ [PHP Standard Recommendations](https://www.php-fig.org/psr/)
 
 ### Perl
 
