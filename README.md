@@ -99,10 +99,12 @@ coding style guides and development practices across the web.
 ### Elixir
 
 + [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide#readme)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-elixir)
 
 ### Go
 
 + [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-golang)
 
 ### JavaScript
 
@@ -112,10 +114,12 @@ coding style guides and development practices across the web.
 + [JavaScript: The Right Way](http://jstherightway.org/)
 + [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 + [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-javascript)
 
 ### Java
 
 + [Google Java Style](https://google.github.io/styleguide/javaguide.html)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-java)
 
 ### Objective-C
 
@@ -127,6 +131,7 @@ coding style guides and development practices across the web.
 
 + [PHP: The Right Way](http://www.phptherightway.com/)
 + [PHP Coding Standards](https://github.com/maxdmyers/php-style-guide#readme)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-php)
 
 ### Perl
 
@@ -136,6 +141,7 @@ coding style guides and development practices across the web.
 
 + [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 + [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-python)
 
 ### Ruby
 
@@ -146,6 +152,7 @@ coding style guides and development practices across the web.
 
 + [Scala Style Guide](http://docs.scala-lang.org/style/)
 + [Effective Scala](http://twitter.github.io/effectivescala/)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-scala)
 
 ### Shell
 
@@ -159,6 +166,7 @@ coding style guides and development practices across the web.
 ### Swift
 
 + [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-ios-swift)
 
 ## Frameworks
 
@@ -166,11 +174,13 @@ coding style guides and development practices across the web.
 
 + [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme)
 + [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-angular)
 
 ### Node.js
 
 + [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
 + [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-node-js)
 
 ### RSpec
 
@@ -183,6 +193,7 @@ coding style guides and development practices across the web.
 ### Vue
 
 + [The official style guide for Vue-specific code](https://vuejs.org/v2/style-guide/)
++ [Programming Community Curated Resources](https://hackr.io/tutorials/learn-vue-js)
 
 ## Other
 
