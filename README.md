@@ -176,6 +176,7 @@ coding style guides and development practices across the web.
 ### RSpec
 
 + [Better Specs { rspec guidelines with ruby }](http://betterspecs.org/)
++ [The RSpec Style Guide](https://github.com/reachlocal/rspec-style-guide#readme)
 
 ### Rails
 
