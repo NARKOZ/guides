@@ -35,7 +35,6 @@ coding style guides and development practices across the web.
 
 + [Frameworks](#frameworks)
   + [AngularJS](#angularjs)
-  + [Node.js](#nodejs)
   + [RSpec](#rspec)
   + [Ruby on Rails](#rails)
   + [Vue](#vue)
@@ -46,6 +45,7 @@ coding style guides and development practices across the web.
   + [Favicon](#favicon)
   + [iOS](#ios)
   + [JSON](#json)
+  + [Node.js](#nodejs)
   + [Security](#security)
   + [Writing](#writing)
   + [UI](#ui)
@@ -168,11 +168,6 @@ coding style guides and development practices across the web.
 + [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme)
 + [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
 
-### Node.js
-
-+ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
-+ [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme)
-
 ### RSpec
 
 + [Better Specs { rspec guidelines with ruby }](http://betterspecs.org/)
@@ -210,6 +205,11 @@ coding style guides and development practices across the web.
 ### JSON
 
 + [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
+
+### Node.js
+
++ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
++ [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme)
 
 ### Security
 
