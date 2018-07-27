@@ -44,11 +44,12 @@ coding style guides and development practices across the web.
   + [Deployment](#deployment)
   + [Favicon](#favicon)
   + [iOS](#ios)
+  + [Git](#git)
   + [JSON](#json)
   + [Node.js](#nodejs)
   + [Security](#security)
-  + [Writing](#writing)
   + [UI](#ui)
+  + [Writing](#writing)
 
 ## Styling
 
@@ -202,6 +203,10 @@ coding style guides and development practices across the web.
 
 + [The iOS Design Guidelines](http://ivomynttinen.com/blog/ios-design-guidelines)
 
+### Git
+
++ [Git Style Guide](https://github.com/agis/git-style-guide#readme)
+
 ### JSON
 
 + [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
@@ -218,16 +223,16 @@ coding style guides and development practices across the web.
 + [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 + [Web Application Security Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)
 
+### UI
+
++ [A Good User Interface](http://goodui.org/)
++ [Pagination 101](https://gist.github.com/mislav/622561)
+
 ### Writing
 
 + [Writing style](https://atlassian.design/server/foundations/writing-style/)
 + [Documentation Style Guide](https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/)
 + [Apple Style Guide](https://help.apple.com/asg/mac/2013/)
-
-### UI
-
-+ [A Good User Interface](http://goodui.org/)
-+ [Pagination 101](https://gist.github.com/mislav/622561)
 
 ## Contributing
 
