@@ -32,6 +32,7 @@ coding style guides and development practices across the web.
   + [Shell](#shell)
   + [SQL](#sql)
   + [Swift](#swift)
+  + [Vimscript](#vimscript)
 
 + [Frameworks](#frameworks)
   + [AngularJS](#angularjs)
@@ -90,8 +91,8 @@ coding style guides and development practices across the web.
 
 ### C&#35;
 
-+ [C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
-+ [Framework Design Guidelines](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
++ [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
++ [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index)
 
 ### CoffeeScript
 
@@ -127,7 +128,7 @@ coding style guides and development practices across the web.
 
 ### PHP
 
-+ [PHP: The Right Way](http://www.phptherightway.com/)
++ [PHP: The Right Way](https://www.phptherightway.com/)
 + [PHP Standard Recommendations](https://www.php-fig.org/psr/)
 
 ### Perl
@@ -141,13 +142,13 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-+ [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide#readme)
++ [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide#readme)
 + [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
 
 ### Scala
 
-+ [Scala Style Guide](http://docs.scala-lang.org/style/)
-+ [Effective Scala](http://twitter.github.io/effectivescala/)
++ [Scala Style Guide](https://docs.scala-lang.org/style/)
++ [Effective Scala](https://twitter.github.io/effectivescala/)
 
 ### Shell
 
@@ -156,11 +157,15 @@ coding style guides and development practices across the web.
 
 ### SQL
 
-+ [SQL Style Guide](http://www.sqlstyle.guide/)
++ [SQL Style Guide](https://www.sqlstyle.guide/)
 
 ### Swift
 
 + [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme)
+
+### Vimscript
+
++ [Google Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
 
 ## Frameworks
 
@@ -171,12 +176,12 @@ coding style guides and development practices across the web.
 
 ### RSpec
 
-+ [Better Specs { rspec guidelines with ruby }](http://betterspecs.org/)
++ [Better Specs { rspec guidelines with ruby }](http://www.betterspecs.org/)
 + [The RSpec Style Guide](https://github.com/reachlocal/rspec-style-guide#readme)
 
 ### Rails
 
-+ [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide#readme)
++ [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide#readme)
 
 ### Vue
 
@@ -201,7 +206,7 @@ coding style guides and development practices across the web.
 
 ### iOS
 
-+ [The iOS Design Guidelines](http://ivomynttinen.com/blog/ios-design-guidelines)
++ [The iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
 
 ### Git
 
@@ -225,7 +230,7 @@ coding style guides and development practices across the web.
 
 ### UI
 
-+ [A Good User Interface](http://goodui.org/)
++ [A Good User Interface](https://goodui.org/)
 + [Pagination 101](https://gist.github.com/mislav/622561)
 
 ### Writing
