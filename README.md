@@ -47,6 +47,7 @@ coding style guides and development practices across the web.
   + [iOS](#ios)
   + [Git](#git)
   + [JSON](#json)
+  + [Machine Learning](#machine-learning)
   + [Node.js](#nodejs)
   + [Security](#security)
   + [UI](#ui)
@@ -215,6 +216,10 @@ coding style guides and development practices across the web.
 ### JSON
 
 + [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
+
+### Machine Learning
+
++ [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 ### Node.js
 
