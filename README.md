@@ -42,6 +42,7 @@ coding style guides and development practices across the web.
 
 + [Other](#other)
   + [API](#api)
+  + [Bots](#bots)
   + [Deployment](#deployment)
   + [Favicon](#favicon)
   + [iOS](#ios)
@@ -196,6 +197,11 @@ coding style guides and development practices across the web.
 + [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
 + [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
 + [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
+
+### Bots
+
++ [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
++ [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
 
 ### Deployment
 
