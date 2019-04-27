@@ -42,6 +42,7 @@ coding style guides and development practices across the web.
 
 + [Other](#other)
   + [API](#api)
+  + [Webhooks](#webhooks)
   + [Bots](#bots)
   + [Deployment](#deployment)
   + [Favicon](#favicon)
@@ -197,6 +198,10 @@ coding style guides and development practices across the web.
 + [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
 + [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
 + [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
+
+### Webhooks
+
++ [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/)
 
 ### Bots
 
