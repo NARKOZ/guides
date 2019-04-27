@@ -42,7 +42,6 @@ coding style guides and development practices across the web.
 
 + [Other](#other)
   + [API](#api)
-  + [Webhooks](#webhooks)
   + [Bots](#bots)
   + [Deployment](#deployment)
   + [Favicon](#favicon)
@@ -54,6 +53,7 @@ coding style guides and development practices across the web.
   + [Security](#security)
   + [UI](#ui)
   + [Writing](#writing)
+  + [Webhooks](#webhooks)
 
 ## Styling
 
