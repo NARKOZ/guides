@@ -18,6 +18,7 @@ coding style guides and development practices across the web.
   + [C](#c)
   + [C++](#c-1)
   + [C#](#c-2)
+  + [Clojure](#clojure)
   + [CoffeeScript](#coffeescript)
   + [Elixir](#elixir)
   + [Go](#go)
@@ -95,6 +96,10 @@ coding style guides and development practices across the web.
 
 + [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 + [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index)
+
+### Clojure
+
++ [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme)
 
 ### CoffeeScript
 
