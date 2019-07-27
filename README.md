@@ -50,6 +50,7 @@ coding style guides and development practices across the web.
   + [Git](#git)
   + [JSON](#json)
   + [Machine Learning](#machine-learning)
+  + [Computer Vision](#computer-vision)
   + [Node.js](#nodejs)
   + [Security](#security)
   + [UI](#ui)
@@ -233,6 +234,12 @@ coding style guides and development practices across the web.
 ### Machine Learning
 
 + [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+
+### Computer Vision
+
++ [Roadmap for Conquering Computer ](https://towardsdatascience.com/roadmap-for-conquering-computer-vision-213695472ad0)
++ [Computer Vision — An Introduction](https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7)
++ [A Gentle Introduction to Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/)
 
 ### Node.js
 
