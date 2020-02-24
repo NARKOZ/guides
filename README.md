@@ -199,7 +199,8 @@ coding style guides and development practices across the web.
 ### API
 
 + [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
-+ [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
++ [Principles of good RESTful API
+  Design](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
 + [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
 + [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 + [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
@@ -237,7 +238,7 @@ coding style guides and development practices across the web.
 ### Node.js
 
 + [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
-+ [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme)
++ [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)
 
 ### Security
 
