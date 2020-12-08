@@ -44,6 +44,7 @@ coding style guides and development practices across the web.
 + [Other](#other)
   + [API](#api)
   + [Bots](#bots)
+  + [CLI](#cli)
   + [Deployment](#deployment)
   + [Favicon](#favicon)
   + [iOS](#ios)
@@ -210,6 +211,10 @@ coding style guides and development practices across the web.
 
 + [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
 + [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
+
+### CLI
+
++ [Command Line Interface Guidelines](https://clig.dev/#guidelines)
 
 ### Deployment
 
