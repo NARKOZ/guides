@@ -114,6 +114,10 @@ coding style guides and development practices across the web.
 
 + [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 
+### Haskell
+
++ [Haskell Programming Guidelines](https://wiki.haskell.org/Programming_guidelines)
+
 ### JavaScript
 
 + [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
@@ -191,6 +195,10 @@ coding style guides and development practices across the web.
 ### Rails
 
 + [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide#readme)
+
+### Rust
+
++ [The Rust Style Guide](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
 
 ### Vue
 
