@@ -197,6 +197,7 @@ coding style guides and development practices across the web.
 
 + [Better Specs { rspec guidelines with ruby }](https://www.betterspecs.org/)
 + [RSpec Style Guide](https://github.com/rubocop/rspec-style-guide#readme)
++ [Even Better Specs | Guidelines for Maintainable Tests](https://evenbetterspecs.github.io/)
 
 ### Rails
 
