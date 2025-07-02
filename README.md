@@ -148,7 +148,7 @@ coding style guides and development practices across the web.
 
 ### Perl
 
-+ [PDF] [Perl Best Practices Quick Reference Guide](https://www.squirrel.nl/pub/PBP_refguide-1.02.00.pdf)
++ [PDF] [Perl Best Practices Quick Reference Guide](https://rperl.org/docs/PBP_refguide-1.02.00.pdf)
 
 ### Python
 
