@@ -56,6 +56,7 @@ coding style guides and development practices across the web.
   + [Node.js](#nodejs)
   + [Security](#security)
   + [UI](#ui)
+  + [Webhooks](#webhooks)
   + [Writing](#writing)
 
 ## Styling
@@ -268,6 +269,10 @@ coding style guides and development practices across the web.
 
 + [A Good User Interface](https://goodui.org/)
 + [Pagination 101](https://gist.github.com/mislav/622561)
+
+### Webhooks
+
++ [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/)
 
 ### Writing
 
