@@ -49,6 +49,7 @@ coding style guides and development practices across the web.
   + [CLI](#cli)
   + [Deployment](#deployment)
   + [Favicon](#favicon)
+  + [HTTP](#http)
   + [iOS](#ios)
   + [Git](#git)
   + [JSON](#json)
@@ -234,6 +235,10 @@ coding style guides and development practices across the web.
 ### Favicon
 
 + [favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme)
+
+### HTTP
+
++ [HTTP Status Code Guides](https://httpguides.com/)
 
 ### iOS
 
